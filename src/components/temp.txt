@@ -1,0 +1,7 @@
+<figure>
+<img
+  src={require("../photos/bg2.jpg")}
+  alt="it is somehing"
+  className="img-fluid"
+/>
+</figure>

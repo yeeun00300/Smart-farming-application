@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Smart-farming-application/static/css/main.36e6370a.css",
+    "main.js": "/Smart-farming-application/static/js/main.a248a29f.js",
+    "static/media/caro2.jpg": "/Smart-farming-application/static/media/caro2.4e9ce84c18635040913c.jpg",
+    "static/media/smart-farming.jpg": "/Smart-farming-application/static/media/smart-farming.e0568a5010e10b2f6ea8.jpg",
+    "static/media/planting-seeds.jpg": "/Smart-farming-application/static/media/planting-seeds.137156d536c0844366a2.jpg",
+    "static/media/caro0.jpg": "/Smart-farming-application/static/media/caro0.2aab72b4f14b30595f2a.jpg",
+    "static/media/img1.jpg.jpg": "/Smart-farming-application/static/media/img1.jpg.d91052d8d78cf154ea71.jpg",
+    "static/media/Irrigation-Technology.jpg": "/Smart-farming-application/static/media/Irrigation-Technology.467a139c393b890f4c15.jpg",
+    "static/media/gmail.png": "/Smart-farming-application/static/media/gmail.23d2a9b0f4cc2cae2ed1.png",
+    "index.html": "/Smart-farming-application/index.html",
+    "main.36e6370a.css.map": "/Smart-farming-application/static/css/main.36e6370a.css.map",
+    "main.a248a29f.js.map": "/Smart-farming-application/static/js/main.a248a29f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36e6370a.css",
+    "static/js/main.a248a29f.js"
+  ]
+}
